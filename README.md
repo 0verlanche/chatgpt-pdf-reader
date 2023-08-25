@@ -1,1 +1,1 @@
-# chatgpt-pdf-uploader
+## ChatGPT PDF Reader Extension
