@@ -14,7 +14,7 @@
     "default_popup": "popup.html"
   },
   "icons": {
-    "48": "icon.png"
+    "128": "chat-gpt.png"
   },
   "manifest_version": 2
 }
