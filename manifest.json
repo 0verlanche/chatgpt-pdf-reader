@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "PDF Reader Extension",
   "version": "1.0",
   "description": "Extension to read PDF files and interact with chat.openai.com",
@@ -10,11 +10,8 @@
       "js": ["pdf.min.js", "pdf.worker.min.js", "content.js"]
     }
   ],
-  "browser_action": {
-    "default_popup": "popup.html"
-  },
   "icons": {
     "128": "chat-gpt.png"
-  },
-  "manifest_version": 2
+  }
 }
+
